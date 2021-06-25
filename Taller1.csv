@@ -184,10 +184,10 @@ age;anaemia;creatinine_phosphokinase;diabetes;ejection_fraction;high_blood_press
 65;No;395;Si;25;No;265000;1.2;136;Femenino;Si;154;Si
 75;No;99;No;38;Si;224000;2.5;134;Femenino;No;162;Si
 58;Si;145;No;25;No;219000;1.2;137;Femenino;Si;170;Si
-60.667;Si;104;Si;30;No;389000;1.5;136;Femenino;No;171;Si
+60;Si;104;Si;30;No;389000;1.5;136;Femenino;No;171;Si
 50;No;582;No;50;No;153000;0.6;134;Masculino;No;172;Si
 60;No;1896;Si;25;No;365000;2.1;144;Masculino;No;172;Si
-60.667;Si;151;Si;40;Si;201000;1;136;Masculino;No;172;No
+60;Si;151;Si;40;Si;201000;1;136;Masculino;No;172;No
 40;No;244;No;45;Si;275000;0.9;140;Masculino;No;174;No
 80;No;582;Si;35;No;350000;2.1;134;Femenino;No;174;No
 64;Si;62;No;60;No;309000;1.5;135;Masculino;No;174;No
